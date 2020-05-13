@@ -1,0 +1,5 @@
+Freshman
+Sophmore
+Junior
+Senior
+under grad
